@@ -1,9 +1,16 @@
 :root {
-  padding: 0;
+  padding: 20px;
   margin: 0;
   box-sizing: border-box;
   text-align: center;
-  color: antiquewhite;
-  background-color: #020202;
   font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+  color: #0a0a0a;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
 }

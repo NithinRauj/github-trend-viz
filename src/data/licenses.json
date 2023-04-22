@@ -1,0 +1,62 @@
+[
+  {
+    "label": "mit",
+    "value": "1696489"
+  },
+  {
+    "label": "apache-2.0",
+    "value": "495134"
+  },
+  {
+    "label": "gpl-2.0",
+    "value": "341505"
+  },
+  {
+    "label": "gpl-3.0",
+    "value": "340407"
+  },
+  {
+    "label": "bsd-3-clause",
+    "value": "150701"
+  },
+  {
+    "label": "bsd-2-clause",
+    "value": "55221"
+  },
+  {
+    "label": "unlabel",
+    "value": "46414"
+  },
+  {
+    "label": "agpl-3.0",
+    "value": "41179"
+  },
+  {
+    "label": "lgpl-3.0",
+    "value": "39839"
+  },
+  {
+    "label": "cc0-1.0",
+    "value": "26807"
+  },
+  {
+    "label": "epl-1.0",
+    "value": "24199"
+  },
+  {
+    "label": "lgpl-2.1",
+    "value": "22637"
+  },
+  {
+    "label": "mpl-2.0",
+    "value": "18832"
+  },
+  {
+    "label": "isc",
+    "value": "17735"
+  },
+  {
+    "label": "artistic-2.0",
+    "value": "8535"
+  }
+]
