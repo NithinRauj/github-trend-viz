@@ -1,0 +1,842 @@
+[
+    {
+        "hour_of_day": "0",
+        "day_of_week": "1",
+        "num_commits": "935706"
+    },
+    {
+        "hour_of_day": "1",
+        "day_of_week": "1",
+        "num_commits": "829373"
+    },
+    {
+        "hour_of_day": "2",
+        "day_of_week": "1",
+        "num_commits": "782073"
+    },
+    {
+        "hour_of_day": "3",
+        "day_of_week": "1",
+        "num_commits": "758068"
+    },
+    {
+        "hour_of_day": "4",
+        "day_of_week": "1",
+        "num_commits": "740805"
+    },
+    {
+        "hour_of_day": "5",
+        "day_of_week": "1",
+        "num_commits": "706230"
+    },
+    {
+        "hour_of_day": "6",
+        "day_of_week": "1",
+        "num_commits": "723224"
+    },
+    {
+        "hour_of_day": "7",
+        "day_of_week": "1",
+        "num_commits": "771972"
+    },
+    {
+        "hour_of_day": "8",
+        "day_of_week": "1",
+        "num_commits": "858923"
+    },
+    {
+        "hour_of_day": "9",
+        "day_of_week": "1",
+        "num_commits": "949215"
+    },
+    {
+        "hour_of_day": "10",
+        "day_of_week": "1",
+        "num_commits": "1006929"
+    },
+    {
+        "hour_of_day": "11",
+        "day_of_week": "1",
+        "num_commits": "1049593"
+    },
+    {
+        "hour_of_day": "12",
+        "day_of_week": "1",
+        "num_commits": "1118222"
+    },
+    {
+        "hour_of_day": "13",
+        "day_of_week": "1",
+        "num_commits": "1209899"
+    },
+    {
+        "hour_of_day": "14",
+        "day_of_week": "1",
+        "num_commits": "1309145"
+    },
+    {
+        "hour_of_day": "15",
+        "day_of_week": "1",
+        "num_commits": "1383554"
+    },
+    {
+        "hour_of_day": "16",
+        "day_of_week": "1",
+        "num_commits": "1409422"
+    },
+    {
+        "hour_of_day": "17",
+        "day_of_week": "1",
+        "num_commits": "1406564"
+    },
+    {
+        "hour_of_day": "18",
+        "day_of_week": "1",
+        "num_commits": "1414562"
+    },
+    {
+        "hour_of_day": "19",
+        "day_of_week": "1",
+        "num_commits": "1454274"
+    },
+    {
+        "hour_of_day": "20",
+        "day_of_week": "1",
+        "num_commits": "1494637"
+    },
+    {
+        "hour_of_day": "21",
+        "day_of_week": "1",
+        "num_commits": "1439766"
+    },
+    {
+        "hour_of_day": "22",
+        "day_of_week": "1",
+        "num_commits": "1297443"
+    },
+    {
+        "hour_of_day": "23",
+        "day_of_week": "1",
+        "num_commits": "1119747"
+    },
+    {
+        "hour_of_day": "0",
+        "day_of_week": "2",
+        "num_commits": "1032407"
+    },
+    {
+        "hour_of_day": "1",
+        "day_of_week": "2",
+        "num_commits": "991191"
+    },
+    {
+        "hour_of_day": "2",
+        "day_of_week": "2",
+        "num_commits": "998542"
+    },
+    {
+        "hour_of_day": "3",
+        "day_of_week": "2",
+        "num_commits": "990731"
+    },
+    {
+        "hour_of_day": "4",
+        "day_of_week": "2",
+        "num_commits": "943076"
+    },
+    {
+        "hour_of_day": "5",
+        "day_of_week": "2",
+        "num_commits": "966388"
+    },
+    {
+        "hour_of_day": "6",
+        "day_of_week": "2",
+        "num_commits": "1099852"
+    },
+    {
+        "hour_of_day": "7",
+        "day_of_week": "2",
+        "num_commits": "1313208"
+    },
+    {
+        "hour_of_day": "8",
+        "day_of_week": "2",
+        "num_commits": "1571593"
+    },
+    {
+        "hour_of_day": "9",
+        "day_of_week": "2",
+        "num_commits": "1778569"
+    },
+    {
+        "hour_of_day": "10",
+        "day_of_week": "2",
+        "num_commits": "1752232"
+    },
+    {
+        "hour_of_day": "11",
+        "day_of_week": "2",
+        "num_commits": "1729372"
+    },
+    {
+        "hour_of_day": "12",
+        "day_of_week": "2",
+        "num_commits": "1910761"
+    },
+    {
+        "hour_of_day": "13",
+        "day_of_week": "2",
+        "num_commits": "2184855"
+    },
+    {
+        "hour_of_day": "14",
+        "day_of_week": "2",
+        "num_commits": "2437069"
+    },
+    {
+        "hour_of_day": "15",
+        "day_of_week": "2",
+        "num_commits": "2517492"
+    },
+    {
+        "hour_of_day": "16",
+        "day_of_week": "2",
+        "num_commits": "2394450"
+    },
+    {
+        "hour_of_day": "17",
+        "day_of_week": "2",
+        "num_commits": "2226451"
+    },
+    {
+        "hour_of_day": "18",
+        "day_of_week": "2",
+        "num_commits": "2189844"
+    },
+    {
+        "hour_of_day": "19",
+        "day_of_week": "2",
+        "num_commits": "2271715"
+    },
+    {
+        "hour_of_day": "20",
+        "day_of_week": "2",
+        "num_commits": "2592974"
+    },
+    {
+        "hour_of_day": "21",
+        "day_of_week": "2",
+        "num_commits": "2252571"
+    },
+    {
+        "hour_of_day": "22",
+        "day_of_week": "2",
+        "num_commits": "1983338"
+    },
+    {
+        "hour_of_day": "23",
+        "day_of_week": "2",
+        "num_commits": "1645692"
+    },
+    {
+        "hour_of_day": "0",
+        "day_of_week": "3",
+        "num_commits": "1426528"
+    },
+    {
+        "hour_of_day": "1",
+        "day_of_week": "3",
+        "num_commits": "1273001"
+    },
+    {
+        "hour_of_day": "2",
+        "day_of_week": "3",
+        "num_commits": "1210202"
+    },
+    {
+        "hour_of_day": "3",
+        "day_of_week": "3",
+        "num_commits": "1155496"
+    },
+    {
+        "hour_of_day": "4",
+        "day_of_week": "3",
+        "num_commits": "1076043"
+    },
+    {
+        "hour_of_day": "5",
+        "day_of_week": "3",
+        "num_commits": "1089734"
+    },
+    {
+        "hour_of_day": "6",
+        "day_of_week": "3",
+        "num_commits": "1219389"
+    },
+    {
+        "hour_of_day": "7",
+        "day_of_week": "3",
+        "num_commits": "1452070"
+    },
+    {
+        "hour_of_day": "8",
+        "day_of_week": "3",
+        "num_commits": "1733436"
+    },
+    {
+        "hour_of_day": "9",
+        "day_of_week": "3",
+        "num_commits": "1921815"
+    },
+    {
+        "hour_of_day": "10",
+        "day_of_week": "3",
+        "num_commits": "1872000"
+    },
+    {
+        "hour_of_day": "11",
+        "day_of_week": "3",
+        "num_commits": "1831161"
+    },
+    {
+        "hour_of_day": "12",
+        "day_of_week": "3",
+        "num_commits": "2032653"
+    },
+    {
+        "hour_of_day": "13",
+        "day_of_week": "3",
+        "num_commits": "2330179"
+    },
+    {
+        "hour_of_day": "14",
+        "day_of_week": "3",
+        "num_commits": "2561167"
+    },
+    {
+        "hour_of_day": "15",
+        "day_of_week": "3",
+        "num_commits": "2643269"
+    },
+    {
+        "hour_of_day": "16",
+        "day_of_week": "3",
+        "num_commits": "2491147"
+    },
+    {
+        "hour_of_day": "17",
+        "day_of_week": "3",
+        "num_commits": "2312007"
+    },
+    {
+        "hour_of_day": "18",
+        "day_of_week": "3",
+        "num_commits": "2265246"
+    },
+    {
+        "hour_of_day": "19",
+        "day_of_week": "3",
+        "num_commits": "2266405"
+    },
+    {
+        "hour_of_day": "20",
+        "day_of_week": "3",
+        "num_commits": "2334227"
+    },
+    {
+        "hour_of_day": "21",
+        "day_of_week": "3",
+        "num_commits": "2524490"
+    },
+    {
+        "hour_of_day": "22",
+        "day_of_week": "3",
+        "num_commits": "1975601"
+    },
+    {
+        "hour_of_day": "23",
+        "day_of_week": "3",
+        "num_commits": "1643063"
+    },
+    {
+        "hour_of_day": "0",
+        "day_of_week": "4",
+        "num_commits": "1400811"
+    },
+    {
+        "hour_of_day": "1",
+        "day_of_week": "4",
+        "num_commits": "1239746"
+    },
+    {
+        "hour_of_day": "2",
+        "day_of_week": "4",
+        "num_commits": "1172315"
+    },
+    {
+        "hour_of_day": "3",
+        "day_of_week": "4",
+        "num_commits": "1134481"
+    },
+    {
+        "hour_of_day": "4",
+        "day_of_week": "4",
+        "num_commits": "1076317"
+    },
+    {
+        "hour_of_day": "5",
+        "day_of_week": "4",
+        "num_commits": "1082717"
+    },
+    {
+        "hour_of_day": "6",
+        "day_of_week": "4",
+        "num_commits": "1213200"
+    },
+    {
+        "hour_of_day": "7",
+        "day_of_week": "4",
+        "num_commits": "1436316"
+    },
+    {
+        "hour_of_day": "8",
+        "day_of_week": "4",
+        "num_commits": "1691974"
+    },
+    {
+        "hour_of_day": "9",
+        "day_of_week": "4",
+        "num_commits": "1889377"
+    },
+    {
+        "hour_of_day": "10",
+        "day_of_week": "4",
+        "num_commits": "1849671"
+    },
+    {
+        "hour_of_day": "11",
+        "day_of_week": "4",
+        "num_commits": "1843316"
+    },
+    {
+        "hour_of_day": "12",
+        "day_of_week": "4",
+        "num_commits": "2030399"
+    },
+    {
+        "hour_of_day": "13",
+        "day_of_week": "4",
+        "num_commits": "2307416"
+    },
+    {
+        "hour_of_day": "14",
+        "day_of_week": "4",
+        "num_commits": "2545396"
+    },
+    {
+        "hour_of_day": "15",
+        "day_of_week": "4",
+        "num_commits": "2631670"
+    },
+    {
+        "hour_of_day": "16",
+        "day_of_week": "4",
+        "num_commits": "2488219"
+    },
+    {
+        "hour_of_day": "17",
+        "day_of_week": "4",
+        "num_commits": "2306924"
+    },
+    {
+        "hour_of_day": "18",
+        "day_of_week": "4",
+        "num_commits": "2242175"
+    },
+    {
+        "hour_of_day": "19",
+        "day_of_week": "4",
+        "num_commits": "2252101"
+    },
+    {
+        "hour_of_day": "20",
+        "day_of_week": "4",
+        "num_commits": "2306698"
+    },
+    {
+        "hour_of_day": "21",
+        "day_of_week": "4",
+        "num_commits": "2233359"
+    },
+    {
+        "hour_of_day": "22",
+        "day_of_week": "4",
+        "num_commits": "1952364"
+    },
+    {
+        "hour_of_day": "23",
+        "day_of_week": "4",
+        "num_commits": "1631963"
+    },
+    {
+        "hour_of_day": "0",
+        "day_of_week": "5",
+        "num_commits": "1410590"
+    },
+    {
+        "hour_of_day": "1",
+        "day_of_week": "5",
+        "num_commits": "1224394"
+    },
+    {
+        "hour_of_day": "2",
+        "day_of_week": "5",
+        "num_commits": "1159764"
+    },
+    {
+        "hour_of_day": "3",
+        "day_of_week": "5",
+        "num_commits": "1114030"
+    },
+    {
+        "hour_of_day": "4",
+        "day_of_week": "5",
+        "num_commits": "1049760"
+    },
+    {
+        "hour_of_day": "5",
+        "day_of_week": "5",
+        "num_commits": "1064040"
+    },
+    {
+        "hour_of_day": "6",
+        "day_of_week": "5",
+        "num_commits": "1188708"
+    },
+    {
+        "hour_of_day": "7",
+        "day_of_week": "5",
+        "num_commits": "1402428"
+    },
+    {
+        "hour_of_day": "8",
+        "day_of_week": "5",
+        "num_commits": "1664658"
+    },
+    {
+        "hour_of_day": "9",
+        "day_of_week": "5",
+        "num_commits": "1867302"
+    },
+    {
+        "hour_of_day": "10",
+        "day_of_week": "5",
+        "num_commits": "1831678"
+    },
+    {
+        "hour_of_day": "11",
+        "day_of_week": "5",
+        "num_commits": "1793820"
+    },
+    {
+        "hour_of_day": "12",
+        "day_of_week": "5",
+        "num_commits": "1978761"
+    },
+    {
+        "hour_of_day": "13",
+        "day_of_week": "5",
+        "num_commits": "2260468"
+    },
+    {
+        "hour_of_day": "14",
+        "day_of_week": "5",
+        "num_commits": "2501588"
+    },
+    {
+        "hour_of_day": "15",
+        "day_of_week": "5",
+        "num_commits": "2574086"
+    },
+    {
+        "hour_of_day": "16",
+        "day_of_week": "5",
+        "num_commits": "2426209"
+    },
+    {
+        "hour_of_day": "17",
+        "day_of_week": "5",
+        "num_commits": "2264305"
+    },
+    {
+        "hour_of_day": "18",
+        "day_of_week": "5",
+        "num_commits": "2200733"
+    },
+    {
+        "hour_of_day": "19",
+        "day_of_week": "5",
+        "num_commits": "2199911"
+    },
+    {
+        "hour_of_day": "20",
+        "day_of_week": "5",
+        "num_commits": "2240861"
+    },
+    {
+        "hour_of_day": "21",
+        "day_of_week": "5",
+        "num_commits": "2168014"
+    },
+    {
+        "hour_of_day": "22",
+        "day_of_week": "5",
+        "num_commits": "1896801"
+    },
+    {
+        "hour_of_day": "23",
+        "day_of_week": "5",
+        "num_commits": "1580826"
+    },
+    {
+        "hour_of_day": "0",
+        "day_of_week": "6",
+        "num_commits": "1355287"
+    },
+    {
+        "hour_of_day": "1",
+        "day_of_week": "6",
+        "num_commits": "1186893"
+    },
+    {
+        "hour_of_day": "2",
+        "day_of_week": "6",
+        "num_commits": "1119674"
+    },
+    {
+        "hour_of_day": "3",
+        "day_of_week": "6",
+        "num_commits": "1075752"
+    },
+    {
+        "hour_of_day": "4",
+        "day_of_week": "6",
+        "num_commits": "1009217"
+    },
+    {
+        "hour_of_day": "5",
+        "day_of_week": "6",
+        "num_commits": "1030195"
+    },
+    {
+        "hour_of_day": "6",
+        "day_of_week": "6",
+        "num_commits": "1149895"
+    },
+    {
+        "hour_of_day": "7",
+        "day_of_week": "6",
+        "num_commits": "1352407"
+    },
+    {
+        "hour_of_day": "8",
+        "day_of_week": "6",
+        "num_commits": "1604312"
+    },
+    {
+        "hour_of_day": "9",
+        "day_of_week": "6",
+        "num_commits": "1801647"
+    },
+    {
+        "hour_of_day": "10",
+        "day_of_week": "6",
+        "num_commits": "1768025"
+    },
+    {
+        "hour_of_day": "11",
+        "day_of_week": "6",
+        "num_commits": "1727833"
+    },
+    {
+        "hour_of_day": "12",
+        "day_of_week": "6",
+        "num_commits": "1872256"
+    },
+    {
+        "hour_of_day": "13",
+        "day_of_week": "6",
+        "num_commits": "2143159"
+    },
+    {
+        "hour_of_day": "14",
+        "day_of_week": "6",
+        "num_commits": "2353135"
+    },
+    {
+        "hour_of_day": "15",
+        "day_of_week": "6",
+        "num_commits": "2419772"
+    },
+    {
+        "hour_of_day": "16",
+        "day_of_week": "6",
+        "num_commits": "2278873"
+    },
+    {
+        "hour_of_day": "17",
+        "day_of_week": "6",
+        "num_commits": "2100285"
+    },
+    {
+        "hour_of_day": "18",
+        "day_of_week": "6",
+        "num_commits": "2033561"
+    },
+    {
+        "hour_of_day": "19",
+        "day_of_week": "6",
+        "num_commits": "1994646"
+    },
+    {
+        "hour_of_day": "20",
+        "day_of_week": "6",
+        "num_commits": "2000446"
+    },
+    {
+        "hour_of_day": "21",
+        "day_of_week": "6",
+        "num_commits": "1934813"
+    },
+    {
+        "hour_of_day": "22",
+        "day_of_week": "6",
+        "num_commits": "1716414"
+    },
+    {
+        "hour_of_day": "23",
+        "day_of_week": "6",
+        "num_commits": "1413902"
+    },
+    {
+        "hour_of_day": "0",
+        "day_of_week": "7",
+        "num_commits": "1172036"
+    },
+    {
+        "hour_of_day": "1",
+        "day_of_week": "7",
+        "num_commits": "943620"
+    },
+    {
+        "hour_of_day": "2",
+        "day_of_week": "7",
+        "num_commits": "840137"
+    },
+    {
+        "hour_of_day": "3",
+        "day_of_week": "7",
+        "num_commits": "783913"
+    },
+    {
+        "hour_of_day": "4",
+        "day_of_week": "7",
+        "num_commits": "750718"
+    },
+    {
+        "hour_of_day": "5",
+        "day_of_week": "7",
+        "num_commits": "719892"
+    },
+    {
+        "hour_of_day": "6",
+        "day_of_week": "7",
+        "num_commits": "732975"
+    },
+    {
+        "hour_of_day": "7",
+        "day_of_week": "7",
+        "num_commits": "776432"
+    },
+    {
+        "hour_of_day": "8",
+        "day_of_week": "7",
+        "num_commits": "845751"
+    },
+    {
+        "hour_of_day": "9",
+        "day_of_week": "7",
+        "num_commits": "922443"
+    },
+    {
+        "hour_of_day": "10",
+        "day_of_week": "7",
+        "num_commits": "961823"
+    },
+    {
+        "hour_of_day": "11",
+        "day_of_week": "7",
+        "num_commits": "996210"
+    },
+    {
+        "hour_of_day": "12",
+        "day_of_week": "7",
+        "num_commits": "1060561"
+    },
+    {
+        "hour_of_day": "13",
+        "day_of_week": "7",
+        "num_commits": "1156462"
+    },
+    {
+        "hour_of_day": "14",
+        "day_of_week": "7",
+        "num_commits": "1260845"
+    },
+    {
+        "hour_of_day": "15",
+        "day_of_week": "7",
+        "num_commits": "1335476"
+    },
+    {
+        "hour_of_day": "16",
+        "day_of_week": "7",
+        "num_commits": "1353009"
+    },
+    {
+        "hour_of_day": "17",
+        "day_of_week": "7",
+        "num_commits": "1332107"
+    },
+    {
+        "hour_of_day": "18",
+        "day_of_week": "7",
+        "num_commits": "1302671"
+    },
+    {
+        "hour_of_day": "19",
+        "day_of_week": "7",
+        "num_commits": "1300984"
+    },
+    {
+        "hour_of_day": "20",
+        "day_of_week": "7",
+        "num_commits": "1313708"
+    },
+    {
+        "hour_of_day": "21",
+        "day_of_week": "7",
+        "num_commits": "1279803"
+    },
+    {
+        "hour_of_day": "22",
+        "day_of_week": "7",
+        "num_commits": "1191463"
+    },
+    {
+        "hour_of_day": "23",
+        "day_of_week": "7",
+        "num_commits": "1037044"
+    }
+]

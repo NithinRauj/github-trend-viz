@@ -1,0 +1,46 @@
+[{
+  "license": "mit",
+  "number_of_files": "20560894"
+}, {
+  "license": "gpl-2.0",
+  "number_of_files": "16608922"
+}, {
+  "license": "apache-2.0",
+  "number_of_files": "7201141"
+}, {
+  "license": "gpl-3.0",
+  "number_of_files": "5107676"
+}, {
+  "license": "bsd-3-clause",
+  "number_of_files": "3465437"
+}, {
+  "license": "agpl-3.0",
+  "number_of_files": "1372100"
+}, {
+  "license": "lgpl-2.1",
+  "number_of_files": "799664"
+}, {
+  "license": "bsd-2-clause",
+  "number_of_files": "692357"
+}, {
+  "license": "lgpl-3.0",
+  "number_of_files": "582277"
+}, {
+  "license": "mpl-2.0",
+  "number_of_files": "457000"
+}, {
+  "license": "cc0-1.0",
+  "number_of_files": "449149"
+}, {
+  "license": "epl-1.0",
+  "number_of_files": "322255"
+}, {
+  "license": "unlicense",
+  "number_of_files": "208602"
+}, {
+  "license": "artistic-2.0",
+  "number_of_files": "147391"
+}, {
+  "license": "isc",
+  "number_of_files": "118332"
+}]

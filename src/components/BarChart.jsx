@@ -51,7 +51,7 @@ const BarChart = ({ width, height, data, chartId }) => {
             .duration(800)
             .attr("y", d => yScale(d.value))
             .attr("height", d => height - yScale(d.value))
-            .delay((d, i) => { console.log(d); return i * 100 })
+            .delay((d, i) => i * 100);
     }
 
 

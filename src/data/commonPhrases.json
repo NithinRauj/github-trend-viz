@@ -1,0 +1,202 @@
+[
+  {
+    "subject": "Fix typo",
+    "count": "42"
+  },
+  {
+    "subject": "grunt dist",
+    "count": "30"
+  },
+  {
+    "subject": "fix typo",
+    "count": "28"
+  },
+  {
+    "subject": "rebuild",
+    "count": "17"
+  },
+  {
+    "subject": "whitespace",
+    "count": "16"
+  },
+  {
+    "subject": "Fix typos",
+    "count": "15"
+  },
+  {
+    "subject": "Fix typo.",
+    "count": "14"
+  },
+  {
+    "subject": "Fix typos.",
+    "count": "13"
+  },
+  {
+    "subject": "fix build",
+    "count": "13"
+  },
+  {
+    "subject": "tslint",
+    "count": "13"
+  },
+  {
+    "subject": "remake",
+    "count": "12"
+  },
+  {
+    "subject": "Fixed typo",
+    "count": "11"
+  },
+  {
+    "subject": ":lipstick:",
+    "count": "11"
+  },
+  {
+    "subject": "cleanup",
+    "count": "11"
+  },
+  {
+    "subject": "run grunt",
+    "count": "10"
+  },
+  {
+    "subject": "fix npe",
+    "count": "9"
+  },
+  {
+    "subject": "fix tests",
+    "count": "8"
+  },
+  {
+    "subject": "Fix a typo",
+    "count": "7"
+  },
+  {
+    "subject": "spacing",
+    "count": "6"
+  },
+  {
+    "subject": "polish",
+    "count": "6"
+  },
+  {
+    "subject": "Fix Typos",
+    "count": "5"
+  },
+  {
+    "subject": "formatting",
+    "count": "5"
+  },
+  {
+    "subject": "Fix lint",
+    "count": "5"
+  },
+  {
+    "subject": "refactor",
+    "count": "4"
+  },
+  {
+    "subject": "typo fix",
+    "count": "4"
+  },
+  {
+    "subject": "fix a typo",
+    "count": "4"
+  },
+  {
+    "subject": "fix typos",
+    "count": "4"
+  },
+  {
+    "subject": "G R U N T",
+    "count": "3"
+  },
+  {
+    "subject": "naming",
+    "count": "3"
+  },
+  {
+    "subject": "Typo fix",
+    "count": "3"
+  },
+  {
+    "subject": "Fixed Typo",
+    "count": "3"
+  },
+  {
+    "subject": "var -\u003e let",
+    "count": "3"
+  },
+  {
+    "subject": "wording",
+    "count": "3"
+  },
+  {
+    "subject": "Typo fixes",
+    "count": "3"
+  },
+  {
+    "subject": "clean up",
+    "count": "3"
+  },
+  {
+    "subject": "Run grunt.",
+    "count": "2"
+  },
+  {
+    "subject": "run make",
+    "count": "2"
+  },
+  {
+    "subject": "comment",
+    "count": "2"
+  },
+  {
+    "subject": "Fix test",
+    "count": "2"
+  },
+  {
+    "subject": "rename",
+    "count": "2"
+  },
+  {
+    "subject": "conflict",
+    "count": "2"
+  },
+  {
+    "subject": "add tests",
+    "count": "2"
+  },
+  {
+    "subject": "Whitespace",
+    "count": "2"
+  },
+  {
+    "subject": "fix #1812",
+    "count": "2"
+  },
+  {
+    "subject": "80 col",
+    "count": "2"
+  },
+  {
+    "subject": "Css -\u003e CSS",
+    "count": "2"
+  },
+  {
+    "subject": "fix lint",
+    "count": "2"
+  },
+  {
+    "subject": "Fix build",
+    "count": "2"
+  },
+  {
+    "subject": "Fix tests",
+    "count": "2"
+  },
+  {
+    "subject": "more grunt",
+    "count": "2"
+  }
+]
