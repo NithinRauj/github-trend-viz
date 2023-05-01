@@ -15,9 +15,11 @@ const BarChart = ({ width, height, data, chartId }) => {
         .domain([0, Math.max(...data.map(d => d.value))]);
 
     useEffect(() => {
-        renderBottomAxis();
-        renderLeftAxis();
-        renderBars();
+        if (!select(`#${chartId}`).select('g').size()) {
+            renderBottomAxis();
+            renderLeftAxis();
+            renderBars();
+        }
     }, []);
 
 

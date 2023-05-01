@@ -4,4 +4,14 @@
     /* height: 500px; */
     border-radius: 8px;
     padding: 1% 0;
+    position: relative;
+}
+
+.x-label {
+    position: absolute;
+}
+
+.y-label {
+    position: absolute;
+    transform: rotate(-90deg);
 }

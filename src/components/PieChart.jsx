@@ -28,7 +28,6 @@ const PieChart = ({ chartId, data, width, height }) => {
         const pie = d3.pie()
             .value((d) => d[1]);
         const dataReady = pie(Object.entries(reformattedData));
-        console.log(dataReady)
 
         const arcGenerator = arc()
             .innerRadius(0)

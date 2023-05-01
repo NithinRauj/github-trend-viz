@@ -1,40 +1,41 @@
 import React, { useEffect } from 'react';
-import * as d3 from 'd3';
+import { select, scaleBand, axisLeft, axisBottom, scaleLinear } from 'd3';
 
 const Heatmap = ({ chartId, width, height, data, xDomain, yDomain }) => {
 
     useEffect(() => {
-        renderHeatmap();
+        if (!select(`#${chartId}`).select('g').size()) {
+            renderHeatmap();
+        }
     }, []);
 
 
     const renderHeatmap = () => {
         const margin = { top: 30, right: 30, bottom: 30, left: 30 };
 
-        const svg = d3.select(`#${chartId}`)
+        const svg = select(`#${chartId}`)
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`);
 
-
-        const xScale = d3.scaleBand()
+        const xScale = scaleBand()
             .range([0, (width - margin.left - margin.right)])
             .domain(xDomain)
             .padding(0.01);
         svg.append("g")
             .attr("transform", `translate(0, ${height - margin.top - margin.bottom})`)
-            .call(d3.axisBottom(xScale))
+            .call(axisBottom(xScale));
 
-        const yScale = d3.scaleBand()
+        const yScale = scaleBand()
             .range([height - margin.top - margin.bottom, 0])
             .domain(yDomain)
             .padding(0.01);
         svg.append("g")
-            .call(d3.axisLeft(yScale));
+            .call(axisLeft(yScale));
 
         const noOfCommits = data.map(d => d.num_commits);
-        const myColor = d3.scaleLinear()
+        const myColor = scaleLinear()
             .range(["white", "#69b3a2"])
             .domain([Math.min(...noOfCommits), Math.max(...noOfCommits)]);
 

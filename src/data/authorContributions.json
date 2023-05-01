@@ -1,0 +1,252 @@
+[
+  {
+    "author_name": "Linus Torvalds",
+    "num_commits": "80134285",
+    "num_repositories": "6884"
+  },
+  {
+    "author_name": "Linux Build Service Account",
+    "num_commits": "28150877",
+    "num_repositories": "2318"
+  },
+  {
+    "author_name": "David S. Miller",
+    "num_commits": "27524184",
+    "num_repositories": "6942"
+  },
+  {
+    "author_name": "Takashi Iwai",
+    "num_commits": "23397957",
+    "num_repositories": "6389"
+  },
+  {
+    "author_name": "Ingo Molnar",
+    "num_commits": "21674640",
+    "num_repositories": "6459"
+  },
+  {
+    "author_name": "Al Viro",
+    "num_commits": "21048367",
+    "num_repositories": "6306"
+  },
+  {
+    "author_name": "Mark Brown",
+    "num_commits": "20171462",
+    "num_repositories": "6335"
+  },
+  {
+    "author_name": "Russell King",
+    "num_commits": "16842078",
+    "num_repositories": "6535"
+  },
+  {
+    "author_name": "Tejun Heo",
+    "num_commits": "15787272",
+    "num_repositories": "6406"
+  },
+  {
+    "author_name": "Mauro Carvalho Chehab",
+    "num_commits": "14805635",
+    "num_repositories": "6023"
+  },
+  {
+    "author_name": "Greg Kroah-Hartman",
+    "num_commits": "14800595",
+    "num_repositories": "6717"
+  },
+  {
+    "author_name": "Johannes Berg",
+    "num_commits": "14615304",
+    "num_repositories": "6694"
+  },
+  {
+    "author_name": "Thomas Gleixner",
+    "num_commits": "14341312",
+    "num_repositories": "6470"
+  },
+  {
+    "author_name": "Paul Mundt",
+    "num_commits": "13937493",
+    "num_repositories": "6431"
+  },
+  {
+    "author_name": "Bartlomiej Zolnierkiewicz",
+    "num_commits": "12168232",
+    "num_repositories": "5934"
+  },
+  {
+    "author_name": "Adrian Bunk",
+    "num_commits": "11174667",
+    "num_repositories": "6346"
+  },
+  {
+    "author_name": "Christoph Hellwig",
+    "num_commits": "10919086",
+    "num_repositories": "6422"
+  },
+  {
+    "author_name": "Ralf Baechle",
+    "num_commits": "10565602",
+    "num_repositories": "6356"
+  },
+  {
+    "author_name": "BrewTestBot",
+    "num_commits": "10531156",
+    "num_repositories": "1073"
+  },
+  {
+    "author_name": "Hans Verkuil",
+    "num_commits": "10508643",
+    "num_repositories": "5932"
+  },
+  {
+    "author_name": "Joe Perches",
+    "num_commits": "10320535",
+    "num_repositories": "6538"
+  },
+  {
+    "author_name": "Alan Cox",
+    "num_commits": "10238369",
+    "num_repositories": "6015"
+  },
+  {
+    "author_name": "H Hartley Sweeten",
+    "num_commits": "9875792",
+    "num_repositories": "6182"
+  },
+  {
+    "author_name": "Stephen Hemminger",
+    "num_commits": "9675903",
+    "num_repositories": "6580"
+  },
+  {
+    "author_name": "Eric Dumazet",
+    "num_commits": "9484333",
+    "num_repositories": "6706"
+  },
+  {
+    "author_name": "Trond Myklebust",
+    "num_commits": "9335317",
+    "num_repositories": "6034"
+  },
+  {
+    "author_name": "Randy Dunlap",
+    "num_commits": "9077082",
+    "num_repositories": "6429"
+  },
+  {
+    "author_name": "Andrew Morton",
+    "num_commits": "8917464",
+    "num_repositories": "6049"
+  },
+  {
+    "author_name": "Jean Delvare",
+    "num_commits": "8792949",
+    "num_repositories": "6292"
+  },
+  {
+    "author_name": "Peter Zijlstra",
+    "num_commits": "8108197",
+    "num_repositories": "6353"
+  },
+  {
+    "author_name": "Arnd Bergmann",
+    "num_commits": "8080475",
+    "num_repositories": "6226"
+  },
+  {
+    "author_name": "Ben Dooks",
+    "num_commits": "8005509",
+    "num_repositories": "5913"
+  },
+  {
+    "author_name": "Andi Kleen",
+    "num_commits": "7995357",
+    "num_repositories": "6850"
+  },
+  {
+    "author_name": "Jeff Garzik",
+    "num_commits": "7965541",
+    "num_repositories": "7678"
+  },
+  {
+    "author_name": "Dries Buytaert",
+    "num_commits": "7884856",
+    "num_repositories": "864"
+  },
+  {
+    "author_name": "Arnaldo Carvalho de Melo",
+    "num_commits": "7723564",
+    "num_repositories": "5977"
+  },
+  {
+    "author_name": "Axel Lin",
+    "num_commits": "7689601",
+    "num_repositories": "6162"
+  },
+  {
+    "author_name": "Patrick McHardy",
+    "num_commits": "7651554",
+    "num_repositories": "6311"
+  },
+  {
+    "author_name": "Mark Otto",
+    "num_commits": "7561654",
+    "num_repositories": "2444"
+  },
+  {
+    "author_name": "Roland Walker",
+    "num_commits": "7534280",
+    "num_repositories": "1800"
+  },
+  {
+    "author_name": "Dan Carpenter",
+    "num_commits": "7473733",
+    "num_repositories": "6315"
+  },
+  {
+    "author_name": "Rafael J. Wysocki",
+    "num_commits": "7434710",
+    "num_repositories": "6200"
+  },
+  {
+    "author_name": "Steven Rostedt",
+    "num_commits": "7345200",
+    "num_repositories": "6193"
+  },
+  {
+    "author_name": "Mike Frysinger",
+    "num_commits": "7160986",
+    "num_repositories": "9113"
+  },
+  {
+    "author_name": "NeilBrown",
+    "num_commits": "6926019",
+    "num_repositories": "6230"
+  },
+  {
+    "author_name": "Benjamin Herrenschmidt",
+    "num_commits": "6840935",
+    "num_repositories": "6317"
+  },
+  {
+    "author_name": "Alex Deucher",
+    "num_commits": "6770727",
+    "num_repositories": "5998"
+  },
+  {
+    "author_name": "Jack Nagel",
+    "num_commits": "6686651",
+    "num_repositories": "1389"
+  },
+  {
+    "author_name": "Dave Airlie",
+    "num_commits": "6567603",
+    "num_repositories": "6598"
+  },
+  {
+    "author_name": "David Woodhouse",
+    "num_commits": "6531815",
+    "num_repositories": "7804"
+  }
+]
