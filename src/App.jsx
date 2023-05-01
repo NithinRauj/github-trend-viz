@@ -12,8 +12,6 @@ import commonPhrases from './data/commonPhrases.json';
 import commitActivityByTime from './data/commitsActivityByTime.json';
 import authorContributions from './data/authorContributions.json';
 import repoAndLanguages from './data/repoAndLanguages.json';
-// import filesCovered from './data/filesCoveredByLicenses.json';
-// import reposData from './data/repos.json';
 
 function App() {
 
@@ -29,7 +27,7 @@ function App() {
           xLabel={'Licenses'}
           yLabel={'No of repositories'}
           xLabelPosition={{ top: '75%', left: '43%' }}
-          yLabelPosition={{ top: '37%', left: '-3%' }}
+          yLabelPosition={{ top: '37%', left: '-13%' }}
         >
           <BarChart
             chartId={'popular-licenses'}
@@ -52,8 +50,8 @@ function App() {
           title={'Commit Activity by Time of Day'}
           xLabel={'Hour of Day'}
           yLabel={'Day of Week'}
-          xLabelPosition={{ top: '85%', left: '43%' }}
-          yLabelPosition={{ top: '50%', left: '15%' }}
+          xLabelPosition={{ top: '90%', left: '43%' }}
+          yLabelPosition={{ top: '50%', left: '2%' }}
         >
           <Heatmap
             chartId={'commit-activity'}
@@ -69,8 +67,8 @@ function App() {
           title={'Contributions by Top 50 Authors'}
           xLabel={'No of Repositories'}
           yLabel={'No of Commits'}
-          xLabelPosition={{ top: '85%', left: '43%' }}
-          yLabelPosition={{ top: '50%', left: '10%' }}
+          xLabelPosition={{ top: '90%', left: '43%' }}
+          yLabelPosition={{ top: '50%', left: '-5%' }}
         >
           <Scatterplot
             chartId={'author-contributions'}
